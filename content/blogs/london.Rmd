@@ -1,0 +1,21 @@
+---
+categories:  
+- ""    #the front matter should be like the one found in, e.g., blog2.md. It cannot be like the normal Rmd we used
+- ""
+date: "2021-09-30"
+description: Risk-Return of DJIA stocks # the title that will show up once someone gets to this page
+draft: false
+image: london.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+
+keywords: ""
+slug: london/ # slug ies the shorthand URL address... no spaces plz
+title: From clubbing to cooking 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE)
+```
+
+During my time at UCL as an undergraduate, I had the chance to spend many years exploring the nuances and hidden gems of this wonderful city. Using the money I made during working for Credit Suisse as a summer analyst, I was able to experince some of the finest restaurants in the world, such as [Aqua Kyoto](https://aquakyoto.co.uk/experience)
+
+Further, for my birthday, I was gifted a chance to cook with Gordon Ramsey at his [bread street kitchen restaurant](https://www.gordonramsayrestaurants.com/bread-street-kitchen/). The night ended in none other than [loop](https://www.theloopbar.co.uk/london), one of UCL's most notorious student night clubs.

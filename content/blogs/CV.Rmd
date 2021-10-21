@@ -5,13 +5,36 @@ categories:
 date: "2021-09-30"
 description: Risk-Return of DJIA stocks # the title that will show up once someone gets to this page
 draft: false
-image: CV.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: CV.JPG # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
-slug: CV/ # slug ies the shorthand URL address... no spaces plz
+slug: cv/ # slug ies the shorthand URL address... no spaces plz
 title: My CV
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo=TRUE)
 ```
+
+
+### *Education*  
+
+I attended [Hutton Grammar School](https://www.huttongrammar.org/) from the ages of 11-18. During his time at the school, I achieved a number of accolades including becoming Head Boy, and receiving the Head Teacher's Award. I then attended UCL where I read Economics and gained a first class honours degree. I am now pursuing an MFA at London Business School.  
+
+### *Professional Experience*  
+
+Up to date, I have undertaken numerous summer internships from the companies listed below:  
+
+-HSBC  
+
+-Credit Suisse  
+
+-Nomura  
+
+-GSK  
+
+-Stonehage Fleming
+
+### *The road ahead*
+
+Having accepted an offer to join [Goldman Sachs'](https://www.goldmansachs.com/) investment banking analyst class of 2022, I look forward to tackling complex problems and working with exceptional people. 

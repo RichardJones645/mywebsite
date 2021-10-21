@@ -15,3 +15,8 @@ title: Born and raised in Preston
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo=TRUE)
 ```
+
+
+# **A brief history of Richard**  
+### *Early years*  
+Born in [Preston, Lancashire](https://en.wikipedia.org/wiki/Preston,_Lancashire) to a Barrister (Father) and a solicitor (Mother), I have 2 brothers named Alex and Nicholas. During my early years, I  played football and Rugby and was a national chess champion.  
